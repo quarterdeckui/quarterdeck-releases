@@ -4,7 +4,13 @@
 
 ![QuarterDeck home screen: every running task on a live map with its own CPU, RAM and GPU, and the quota left on each plan](docs/home-en.png)
 
-<sub>Home screen in Presentation mode, which hides task names, folders and conversations.</sub>
+<sub>Home screen in Demo mode: synthetic tasks, so nothing private is shown.</sub>
+
+### Watch it work
+
+[![A 3-minute screen recording of QuarterDeck: the live map, a new task, then three models talking at one Agora table](docs/tour-poster.png)](https://github.com/quarterdeckui/quarterdeck-releases/blob/main/docs/quarterdeck-tour.mp4)
+
+<sub>Unedited 3-minute recording: the live map, a new task, and Opus, GPT and Gemini discussing one question in Agora. Click to play.</sub>
 
 ## What you get
 
@@ -26,7 +32,9 @@
 - **Talk** with your project folder, **Compare** answers side by side (blind if you like), **Race** the same task in separate copies and merge the winner, **Build together**, **Manager and team**, and **Write and hunt** (one writes, one reviews).
 - Give each seat a role (idea maker, critic, researcher, builder, devil's advocate, tester…); agents can ask for evidence from your files, and a claim map shows which arguments are still standing. Turn the conclusion into a task.
 
-![Agora: several models at one table, each with its own role](docs/agora-en.png)
+![Agora setup: pick the connection, model and role of each seat, then ask the question](docs/agora-setup-en.png)
+
+![Agora in action: three models answer the question and each other, in turn](docs/agora-en.png)
 
 ### And more
 - **Resource care:** finds helper processes that AI apps left behind (MCP servers, code runners) and can release them.
