@@ -2,7 +2,7 @@
 
 **A free control room for your AI coding agents, running on the plans you already pay for.** See every agent working on your computer, start and steer your own tasks, and seat several models at one table to work on a question together. Everything runs on your computer; nothing is sent to us.
 
-[![QuarterDeck in two minutes: the live map, quota and runway, then Opus, GPT and Gemini in a poetry battle at one Agora table](docs/video-poster.png)](https://github.com/quarterdeckui/quarterdeck-releases/blob/main/docs/quarterdeck.mp4)
+[![QuarterDeck in two minutes: the live map, quota and runway, then Claude, ChatGPT and Gemini in a poetry battle at one Agora table](docs/video-poster.png)](https://github.com/quarterdeckui/quarterdeck-releases/blob/main/docs/quarterdeck.mp4)
 
 <sub>Two minutes, with sound: a tour of the program, then three models roasting each other in rhyme at one table. The verses are unedited; waiting time is sped up and labelled. Click to play.</sub>
 
@@ -40,7 +40,7 @@ QuarterDeck drives the agent programs already signed in on your computer: **Clau
 
 <sub>Seat the agents, choose the way of working and write the question once. The Open floor runs on your plans and is free.</sub>
 
-![Agora in action: Opus, GPT and Gemini answer the question and each other in turn](docs/agora-en.png)
+![Agora in action: Claude, ChatGPT and Gemini answer the question and each other in turn](docs/agora-en.png)
 
 <sub>A real Open floor session: each model reads what the others wrote and answers it. Each seat continues its own conversation, so later turns come quickly.</sub>
 
