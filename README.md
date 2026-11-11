@@ -12,6 +12,8 @@ QuarterDeck drives the agent programs already signed in on your computer: **Clau
 
 ![Quota and runway: how much of each plan is left, how fast it is being used and when it resets](docs/quota-en.png)
 
+<sub>The quota panel, shown here with demo values.</sub>
+
 ![QuarterDeck home screen: every running task on a live map with its own CPU, RAM and GPU, and the quota left on each plan](docs/home-en.png)
 
 <sub>Home screen in Demo mode: synthetic tasks, so nothing private is shown.</sub>
