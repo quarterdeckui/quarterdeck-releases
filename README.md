@@ -75,10 +75,12 @@ Write your machine code (QuarterDeck → ♥ Support us) in your support note or
 
 ## Privacy
 
-QuarterDeck sends nothing to us: no account, no telemetry, no ads. Your tasks, keys and settings stay on your computer; API keys go to the operating system's protected store (Windows DPAPI, macOS Keychain, the Linux Secret Service where available). Your prompts go only to the model provider you choose. Once a day at most it reads a signed `latest.json` from this page to tell you about a new version; it never downloads or installs anything by itself.
+The full notice is in [PRIVACY.md](PRIVACY.md). In short: QuarterDeck sends nothing to us: no account, no telemetry, no ads. Your tasks, keys and settings stay on your computer; API keys go to the operating system's protected store (Windows DPAPI, macOS Keychain, the Linux Secret Service where available). Your prompts go only to the model provider you choose. Once a day at most it reads a signed `latest.json` from this page to tell you about a new version; it never downloads or installs anything by itself.
 
 ## Help
 
 Write to **quarterdeckui@gmail.com** or open an issue here. Please include the QuarterDeck version, your operating system and what happened. The log folder helps (it hides keys and your user name): `%LOCALAPPDATA%\Orchestrator\logs` on Windows, `~/Library/Application Support/QuarterDeck/logs` on macOS, `~/.local/share/quarterdeck/logs` on Linux.
+
+By using QuarterDeck you agree to the [Terms of Use](TERMS.md). See also the [Privacy notice](PRIVACY.md).
 
 This repository holds releases only, not source code.
