@@ -1,16 +1,20 @@
 # QuarterDeck
 
-**A free control room for your AI coding agents.** See every agent working on your computer, start and steer your own tasks, and let several models work on one question together. Everything runs on your computer; nothing is sent to us.
+**A free control room for your AI coding agents, running on the plans you already pay for.** See every agent working on your computer, start and steer your own tasks, and seat several models at one table to work on a question together. Everything runs on your computer; nothing is sent to us.
+
+[![QuarterDeck in two minutes: the live map, quota and runway, then Opus, GPT and Gemini in a poetry battle at one Agora table](docs/video-poster.png)](https://github.com/quarterdeckui/quarterdeck-releases/blob/main/docs/quarterdeck.mp4)
+
+<sub>Two minutes, with sound: a tour of the program, then three models roasting each other in rhyme at one table. The verses are unedited; waiting time is sped up and labelled. Click to play.</sub>
+
+### No API bill
+
+QuarterDeck drives the agent programs already signed in on your computer: **Claude Code, Codex CLI, Gemini CLI and Antigravity CLI**. Their work counts against your **Claude, ChatGPT and Gemini subscriptions**, not a per-token API account, so there is no API key to create and no surprise invoice. The quota panel shows how much of each plan is left and when it resets. (API keys and local models such as Ollama work too, if you prefer them.)
+
+![Quota and runway: how much of each plan is left, how fast it is being used and when it resets](docs/quota-en.png)
 
 ![QuarterDeck home screen: every running task on a live map with its own CPU, RAM and GPU, and the quota left on each plan](docs/home-en.png)
 
 <sub>Home screen in Demo mode: synthetic tasks, so nothing private is shown.</sub>
-
-### Watch it work
-
-[![A 3-minute screen recording of QuarterDeck: the live map, a new task, then three models talking at one Agora table](docs/tour-poster.png)](https://github.com/quarterdeckui/quarterdeck-releases/blob/main/docs/quarterdeck-tour.mp4)
-
-<sub>Unedited 3-minute recording: the live map, a new task, and Opus, GPT and Gemini discussing one question in Agora. Click to play.</sub>
 
 ## What you get
 
@@ -32,9 +36,13 @@
 - **Talk** with your project folder, **Compare** answers side by side (blind if you like), **Race** the same task in separate copies and merge the winner, **Build together**, **Manager and team**, and **Write and hunt** (one writes, one reviews).
 - Give each seat a role (idea maker, critic, researcher, builder, devil's advocate, tester…); agents can ask for evidence from your files, and a claim map shows which arguments are still standing. Turn the conclusion into a task.
 
-![Agora setup: pick the connection, model and role of each seat, then ask the question](docs/agora-setup-en.png)
+![Agora setup: add each agent with its connection and model, pick how they should work, and ask once](docs/agora-setup-en.png)
 
-![Agora in action: three models answer the question and each other, in turn](docs/agora-en.png)
+<sub>Seat the agents, choose the way of working and write the question once. The Open floor runs on your plans and is free.</sub>
+
+![Agora in action: Opus, GPT and Gemini answer the question and each other in turn](docs/agora-en.png)
+
+<sub>A real Open floor session: each model reads what the others wrote and answers it. Each seat continues its own conversation, so later turns come quickly.</sub>
 
 ### And more
 - **Resource care:** finds helper processes that AI apps left behind (MCP servers, code runners) and can release them.
