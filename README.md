@@ -4,7 +4,7 @@
 
 [![QuarterDeck in two minutes: the live map, quota and runway, then Claude, ChatGPT and Gemini in a poetry battle at one Agora table](docs/video-poster.png)](https://github.com/quarterdeckui/quarterdeck-releases/blob/main/docs/quarterdeck.mp4)
 
-<sub>Two minutes, with sound: a tour of the program, then three models roasting each other in rhyme at one table. The verses are unedited; waiting time is sped up and labelled. Click to play.</sub>
+<sub>Two minutes, with sound: a tour of the program, then Claude, ChatGPT and Gemini roasting each other in rhyme at one table. The verses are unedited; waiting time is sped up and labelled. Click to play.</sub>
 
 ### No API bill
 
