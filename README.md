@@ -79,7 +79,6 @@ Each release page lists the SHA-256 of its files. You also need at least one age
 QuarterDeck is free and works fully without paying. Support is one-time and any amount you choose:
 
 - [Buy Me a Coffee](https://buymeacoffee.com/quarterdeckui)
-- [GitHub Sponsors](https://github.com/sponsors/quarterdeckui)
 
 Write your machine code (QuarterDeck → ♥ Support us) in your support note or send it to quarterdeckui@gmail.com. A gift code arrives by e-mail and opens the Agora modes beyond the Open floor.
 
