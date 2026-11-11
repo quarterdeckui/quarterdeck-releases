@@ -54,7 +54,13 @@ Open **[Releases](https://github.com/quarterdeckui/quarterdeck-releases/releases
 - The program is not code-signed yet, so SmartScreen may say "Windows protected your PC". Choose **More info → Run anyway**.
 - Needs Microsoft Edge WebView2, which Windows 11 already has; on Windows 10 QuarterDeck shows Microsoft's download link if it is missing.
 
-**macOS and Linux** packages are added to the release page as soon as their builds finish testing.
+**macOS 14 or newer, Apple silicon (M1 and later)**
+- `QuarterDeck-<version>-macos-arm64.dmg`: open it and drag QuarterDeck to Applications.
+- The app is not notarized yet, so macOS blocks the first start. Open **System Settings → Privacy & Security** and choose **Open Anyway** next to QuarterDeck (once).
+
+**Linux, 64-bit (x86_64)**
+- `quarterdeck_<version>_amd64.deb` for Ubuntu 22.04+, Debian 12+ and other Debian-based systems: `sudo apt install ./quarterdeck_<version>_amd64.deb`.
+- `QuarterDeck-<version>-x86_64.AppImage` for most other desktops: `chmod +x` it and run it. It needs GTK 3 and WebKitGTK 4.1 from your distribution.
 
 Each release page lists the SHA-256 of its files. You also need at least one agent program signed in (Claude Code, Codex CLI, Gemini CLI or Antigravity CLI) or an API key for a model provider.
 
@@ -73,6 +79,6 @@ QuarterDeck sends nothing to us: no account, no telemetry, no ads. Your tasks, k
 
 ## Help
 
-Write to **quarterdeckui@gmail.com** or open an issue here. Please include the QuarterDeck version, your operating system and what happened. The log in `%LOCALAPPDATA%\Orchestrator\logs` (Windows) helps; it hides keys and your user name.
+Write to **quarterdeckui@gmail.com** or open an issue here. Please include the QuarterDeck version, your operating system and what happened. The log folder helps (it hides keys and your user name): `%LOCALAPPDATA%\Orchestrator\logs` on Windows, `~/Library/Application Support/QuarterDeck/logs` on macOS, `~/.local/share/quarterdeck/logs` on Linux.
 
 This repository holds releases only, not source code.
