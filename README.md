@@ -80,7 +80,7 @@ QuarterDeck is free and works fully without paying. Support is one-time and any 
 
 - [Buy Me a Coffee](https://buymeacoffee.com/quarterdeckui)
 
-Write your machine code (QuarterDeck → ♥ Support us) in your support note or send it to quarterdeckui@gmail.com. A gift code arrives by e-mail and opens the Agora modes beyond the Open floor.
+After supporting, open ♥ Support us in QuarterDeck, write your name and e-mail and ask for your gift code there. It arrives by e-mail and opens the Agora modes beyond the Open floor.
 
 ## Privacy
 
